@@ -28,4 +28,12 @@ See `CONTRIBUTING.md` for pull request and validation expectations. Human author
 
 ## License
 
-No license has been selected or applied. Public visibility does not grant a general right to reuse, modify, or redistribute this repository. The owner will decide on licensing separately.
+Copyright (c) 2026 Ana Raquel de Holanda Barros.
+
+Original written documentation and original diagrams are licensed under Creative Commons Attribution 4.0 International. Software examples and third-party materials require separate licensing.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+See [LICENSE](LICENSE) for the applicable terms.
+
+No license is granted by this repository to proprietary RQS Studio assets, commercial infrastructure, trademarks, music, literary works outside the stated scope, or third-party materials without appropriate rights.
